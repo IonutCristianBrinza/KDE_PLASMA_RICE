@@ -55,3 +55,6 @@ Configuration:
 Gaps:
   Left / Bottom / Right: 15px
   Top / Center: 20px
+```
+## Desktop & Terminal
+![Desktop](Screenshots/Desktop.png)
