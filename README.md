@@ -6,6 +6,14 @@ Focuses on smooth animations, blur effects, and tiling efficiency.
 ![Desktop](Screenshots/image.png)
 ---
 
+# Dependencies
+- `plasma-workspace`
+- `kvantum-manager`
+- `oh-my-zsh`
+- `krohnkite`
+
+
+
 ## 🧩 System & Interface
 
 ### 🖥️ Desktop Layout
@@ -62,3 +70,4 @@ Gaps:
 
 **Konsole**
 - `zsh`*(oh-my-zsh for costumization)*
+
