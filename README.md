@@ -43,7 +43,7 @@ Focuses on smooth animations, blur effects, and tiling efficiency.
 | **Window Decoration** | Klassy |
 | **Icons** | Mac Tahoe Dark *(macOS-like)* |
 | **Cursor** | Breeze Dark / Tahoe Dark / Black variant |
-| **Splash Screen** | KDE Splash Dynamic |
+| **Splash Screen**![Desktop](Screenshots/Desktop.png) | KDE Splash Dynamic |
 | **Login (SDDM)** | Monochrome Plasma 6 |
 
 ---
@@ -58,3 +58,7 @@ Gaps:
   Top / Center: 20px
 ```
 
+## Aplcations
+
+**Konsole**
+`zsh`*(oh-my-zsh for costumization)*
