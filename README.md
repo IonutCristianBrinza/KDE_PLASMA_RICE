@@ -3,6 +3,7 @@
 A clean, dynamic, and minimal KDE Plasma configuration inspired by Gruvbox and macOS Tahoe design.  
 Focuses on smooth animations, blur effects, and tiling efficiency.
 
+![Desktop](Screenshots/image.png)
 ---
 
 ## 🧩 System & Interface
@@ -56,5 +57,4 @@ Gaps:
   Left / Bottom / Right: 15px
   Top / Center: 20px
 ```
-## Desktop & Terminal
-![Desktop](Screenshots/Desktop.png)
+
