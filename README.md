@@ -43,7 +43,7 @@ Focuses on smooth animations, blur effects, and tiling efficiency.
 | **Window Decoration** | Klassy |
 | **Icons** | Mac Tahoe Dark *(macOS-like)* |
 | **Cursor** | Breeze Dark / Tahoe Dark / Black variant |
-| **Splash Screen**![Desktop](Screenshots/Desktop.png) | KDE Splash Dynamic |
+| **Splash Screen**| KDE Splash Dynamic |
 | **Login (SDDM)** | Monochrome Plasma 6 |
 
 ---
