@@ -61,4 +61,4 @@ Gaps:
 ## Aplcations
 
 **Konsole**
-`zsh`*(oh-my-zsh for costumization)*
+- `zsh`*(oh-my-zsh for costumization)*
