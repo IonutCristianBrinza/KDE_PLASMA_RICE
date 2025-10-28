@@ -6,7 +6,7 @@ Focuses on smooth animations, blur effects, and tiling efficiency.
 ![Desktop](Screenshots/image.png)
 ---
 
-# Dependencies
+# 🛠️ Dependencies
 - `plasma-workspace`
 - `kvantum-manager`
 - `oh-my-zsh`
