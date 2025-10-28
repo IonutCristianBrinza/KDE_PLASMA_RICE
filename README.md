@@ -19,7 +19,7 @@ Focuses on smooth animations, blur effects, and tiling efficiency.
 - `Task Manager (Only Running Applications)`
 
 **Wallpaper:**  
-- Gruvbox-inspired blurry wallpaper (Wallpaper from this page:https://gruvbox-wallpapers.pages.dev/ )
+- Gruvbox-inspired blurry wallpaper (Wallpaper from this page: https://gruvbox-wallpapers.pages.dev/ )
 
 ---
 
