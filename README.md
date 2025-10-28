@@ -1,40 +1,57 @@
-# KDE_PLASMA_RICE
+# 🌌 KDE PLASMA RICE — *Gruvbox Tahoe Setup*
 
+A clean, dynamic, and minimal KDE Plasma configuration inspired by Gruvbox and macOS Tahoe design.  
+Focuses on smooth animations, blur effects, and tiling efficiency.
 
-# System Settings and Widgets#
+---
 
-**Widgets Top Bar:** 
-		Ginti(left side)
-		Clock , Compact pager (center)
-		systemtray(adaptifier, batery) minimal chack weather, panel colorizer(right side)
+## 🧩 System & Interface
 
-**Widgets Bottom dock:** 
-	Tahoe Launcher, 
-	only task aplication(kde built in) 
-	(guide with toggeable dock)
-**Widgets:** Blury wallpaper
+### 🖥️ Desktop Layout
+**Top Bar Widgets:**
+- `Ginti` *(left side)*
+- `Clock`, `Compact Pager` *(center)*
+- `System Tray` *(right side — includes Adaptifier, Battery, Weather, Panel Colorizer)*
 
-**Effects:** Magic Lamp, 
-		Whobly windows,
-		Better Blur, 
-		Fading Popups(kinetic), 
-		Maximize(Kinetc), 
-		Morphng popups
-**Wallpaper:** Gruvbox wallpapers
+**Bottom Dock:**
+- `Tahoe Launcher`
+- `Task Manager (Only Running Applications)`
 
-**Scripts:** Krohnkite tile management for kde (Gaps: Left bottom right 15px, Top Center: 20px )
+**Wallpaper:**  
+- Gruvbox-inspired blurry wallpaper
 
-# Global themes.
-**Color:** Kvantm dark( for dolpgin transparency)(Accent Color from wallpaper)
-**Aplication style:** Kvantum dark
-**Plasma style:** JuxPlasma costumized
-**Window decoration:** Klassy
-**Icons:** mac tahoe dark style (Macos similar)
-**Cursor:** Breeze dark, Dark tahoe or somthing black
-**Splash screen:** Kde Splash dynamic
-**SDDM Login:** Monochrome Plasma 6
+---
 
-# Aplications
-Konsole: (zsh)(oh-my-zsh for costumization)
-Fastfetch: 
+### ✨ Effects
+- Magic Lamp  
+- Wobbly Windows  
+- Better Blur  
+- Fading Popups *(Kinetic)*  
+- Maximize Animation *(Kinetic)*  
+- Morphing Popups  
 
+---
+
+## 🎨 Global Theme
+
+| Category | Setting |
+|-----------|----------|
+| **Color Scheme** | Kvantum Dark (accent from wallpaper) |
+| **Application Style** | Kvantum Dark |
+| **Plasma Style** | JuxPlasma *(customized)* |
+| **Window Decoration** | Klassy |
+| **Icons** | Mac Tahoe Dark *(macOS-like)* |
+| **Cursor** | Breeze Dark / Tahoe Dark / Black variant |
+| **Splash Screen** | KDE Splash Dynamic |
+| **Login (SDDM)** | Monochrome Plasma 6 |
+
+---
+
+## 🪟 Scripts & Tiling
+
+**Tiling Script:** [Krohnkite]
+Configuration:
+```ini
+Gaps:
+  Left / Bottom / Right: 15px
+  Top / Center: 20px
